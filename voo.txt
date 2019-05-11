@@ -1,0 +1,7 @@
+Numero do Voo: RU2088
+Portao de Embarque: D7
+Assento: T8
+Origem: Sao Jose dos Campos
+Destino: Juiz de Fora
+Hora do Embarque: 10:00
+Hora do Desembarque: 16:00
